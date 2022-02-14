@@ -18,6 +18,7 @@ const AssetsContainer = ()=>{
         <div id="bgm"/>
         <div id="vocal"/>
         <div id="panic-overlay"/>
+        
     </>
 }
 
